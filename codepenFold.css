@@ -1,0 +1,11 @@
+﻿html {
+    background-color: deepskyblue;
+}
+#plane {
+    width: 80%;
+    margin: auto;
+}
+
+#canvas {
+    width: 100%;
+}
